@@ -1,3 +1,4 @@
 # Create a function called main.
-
-# Return the value "Hello World"
+def main():
+# Return the value "Hello World"       
+    return("Hello World")
