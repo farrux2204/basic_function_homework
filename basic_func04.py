@@ -2,3 +2,4 @@
 def main():
 # Return the value integer type.
     return "25"
+print(main())
