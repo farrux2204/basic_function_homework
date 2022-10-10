@@ -2,3 +2,4 @@
 def main():
     # Return the value 0
     return 0
+print(main())
